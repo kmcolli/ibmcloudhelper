@@ -14,4 +14,4 @@ For detailed documentation on the APIs, please visit the swagger page.
 https://swagger.ibmcloudhelper.com
 
 Postman Collection:
-https://ibmcloudhelper.com/IBM-Cloud-Helper.postman_collection.json
+https://www.ibmcloudhelper.com/IBM-Cloud-Helper.postman_collection.json
