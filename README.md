@@ -39,7 +39,7 @@ IBM Cloud Helper is a collection of APIs that make it easy to perform common tas
 --
 
 For detailed documentation on the APIs and to try out the APIs, please visit the swagger page.
-[https://api.swagger.ibmcloudhelper.com:8000/swagger]()
+[https://api.ibmcloudhelper.com:8000/swagger]()
 
 
-[PostMan Collection](https://ibmcloudhelper.com/IBM-Cloud-Helper.postman_collection.json)
+[PostMan Collection](https://www.ibmcloudhelper.com/IBM-Cloud-Helper.postman_collection.json)
